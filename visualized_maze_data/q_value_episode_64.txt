@@ -1,0 +1,19 @@
+実行時刻: 2024-12-15 14:18:41.130506
+episode: 64
+step: 109
+
+WWWWWWWWWWWWWWWWWWWWWWW
+WS^^vv^<v^^PWPWW^^vW<PW
+W>WWWWWW<WWWv<W<^WWW^WW
+W>>>Cvv^v<<vvvW<<^<><^W
+WvWW^W<WWWW^WW^<WWW>vWW
+W>W^<WWW>W^<^^W<^WP^<>W
+W>W<<<vC>WWW<>W>WWWW<WW
+W<W^<WPW^^WvvWW<<CW^CvW
+W<WvWWWWvWWW<>WWW>WWW^W
+W^WC^W^WvW<^vWW<W>Wv^vW
+WvW>v>^<CvWW>><>>^^>>vW
+WCv^W^W>Wv>CvvWv<Wv^WvW
+WWW^<^v<WW<WW>WWWWvWWvW
+WP<<W>W>^PWWPvWP^<>C>GW
+WWWWWWWWWWWWWWWWWWWWWWW
